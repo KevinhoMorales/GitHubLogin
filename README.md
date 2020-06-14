@@ -1,4 +1,3 @@
-Kevinho Morales
 # GithubSignIniOSExample
 Add GitHub Login button to your iOS app using Swift
 
