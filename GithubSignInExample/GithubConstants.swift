@@ -10,8 +10,8 @@ import Foundation
 
 struct GithubConstants {
 
-    static let CLIENT_ID = "Iv1.f0f335aa0502420d"
-    static let CLIENT_SECRET = "ebb8072d1623a6628edccc8d857949c8c28380a3"
+    static let CLIENT_ID = "id"
+    static let CLIENT_SECRET = "secret"
     static let REDIRECT_URI = "https://doistyapp.firebaseapp.com/__/auth/handler"
     static let SCOPE = "read:user,user:email"
     static let TOKENURL = "https://github.com/login/oauth/access_token"
